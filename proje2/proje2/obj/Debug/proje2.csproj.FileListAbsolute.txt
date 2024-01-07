@@ -1,0 +1,10 @@
+C:\Users\binnu_1gf9mgq\OneDrive\Masaüstü\projeler\proje2\proje2\obj\Debug\proje2.csprojAssemblyReference.cache
+C:\Users\binnu_1gf9mgq\OneDrive\Masaüstü\projeler\proje2\proje2\obj\Debug\proje2.Form1.resources
+C:\Users\binnu_1gf9mgq\OneDrive\Masaüstü\projeler\proje2\proje2\obj\Debug\proje2.Properties.Resources.resources
+C:\Users\binnu_1gf9mgq\OneDrive\Masaüstü\projeler\proje2\proje2\obj\Debug\proje2.csproj.GenerateResource.cache
+C:\Users\binnu_1gf9mgq\OneDrive\Masaüstü\projeler\proje2\proje2\obj\Debug\proje2.csproj.CoreCompileInputs.cache
+C:\Users\binnu_1gf9mgq\OneDrive\Masaüstü\projeler\proje2\proje2\bin\Debug\proje2.exe.config
+C:\Users\binnu_1gf9mgq\OneDrive\Masaüstü\projeler\proje2\proje2\bin\Debug\proje2.exe
+C:\Users\binnu_1gf9mgq\OneDrive\Masaüstü\projeler\proje2\proje2\bin\Debug\proje2.pdb
+C:\Users\binnu_1gf9mgq\OneDrive\Masaüstü\projeler\proje2\proje2\obj\Debug\proje2.exe
+C:\Users\binnu_1gf9mgq\OneDrive\Masaüstü\projeler\proje2\proje2\obj\Debug\proje2.pdb
